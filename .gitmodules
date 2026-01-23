@@ -34,3 +34,7 @@
 	path = port_webp
 	url = ../../cpp-port/port_webp
 	branch = main
+[submodule "tinyexr"]
+	path = tinyexr
+	url = ../../cpp-port/tinyexr
+	branch = main
